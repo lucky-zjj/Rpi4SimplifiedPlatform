@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pmu.h": "c",
+        "printf.h": "c",
+        "config.h": "c",
+        "uart.h": "c",
+        "stdint.h": "c",
+        "stdarg.h": "c",
+        "rpi4hw.h": "c",
+        "config_input.h": "c",
+        "cache.h": "c"
+    }
+}

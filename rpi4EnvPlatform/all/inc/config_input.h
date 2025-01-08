@@ -1,0 +1,7 @@
+#define __PROGPLAT_ARCH__ARM8
+#define __PROGPLAT_PARAMS__CACHE_MULTIW
+#define __PROGPLAT_BOARD__RPI4
+#define __PROGPLAT_RUN_TIMEOUT__60000
+#define __PROGPLAT_MUL_RUNS__ 0
+#define __PROGPLAT_MEM_DEF_1__ expmem_byte_to_word(0)
+#define __MEASUREMENT__CACHE
